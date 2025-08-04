@@ -5,7 +5,7 @@ import numpy as np
 
 from encoding import get_encoder
 from activation import trunc_exp
-from .renderer import NeRFRenderer
+from renderer import NeRFRenderer
 
 class NeRFNetwork(NeRFRenderer):
     def __init__(self,
