@@ -1,4 +1,4 @@
-# NR-HCDF #
+# CD-NeRF #
 
 ### Dependencies ###
 * Ubuntu 
